@@ -1,6 +1,6 @@
 {
     "name": "illchuk/phpunit-class-aliases",
-    "description": "Fixes Fatal error: Class 'PHPUnit\Framework\ExpectationFailedException' not found",
+    "description": "Fixes Fatal error: Class 'PHPUnit\\Framework\\ExpectationFailedException' not found",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
