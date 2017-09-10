@@ -1,0 +1,20 @@
+{
+    "name": "illchuk/phpunit-class-aliases",
+    "description": "Fixes Fatal error: Class 'PHPUnit\Framework\ExpectationFailedException' not found",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zendtest",
+        "phpunit"
+    ],
+    "homepage": "https://github.com/dillchuk/phpunit-class-aliases",
+    "require": {
+        "php": "^5.3|^7.0",
+        "zendframework/zend-test": "^3.1"
+    },
+    "autoload": {
+        "files": [
+            "autoload/phpunit-class-aliases.php"
+        ]
+    }
+}
